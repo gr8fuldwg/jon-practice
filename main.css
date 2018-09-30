@@ -1,7 +1,7 @@
 
 
 body {
-    margin: 50px;
+    outline: 3em;
     background-color: rgb(148, 12, 160);
     font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
     font-size: medium;
@@ -14,8 +14,4 @@ h1 {
     background-color: chartreuse;
     color: royalblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-    font-stretch: none;
-    padding-left: 5px;
-    padding-bottom: none;
 }
