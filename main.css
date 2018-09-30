@@ -1,6 +1,4 @@
-background {
-    background-color: rgb(255, 165, 47);
-}
+
 
 body {
     margin: 25px;
@@ -12,5 +10,5 @@ body {
 h1 {
     font-size: 75px;
     font-weight: normal;
-    -ms-wrap-margin: inherit;
+    text-shadow: 50em;
 }
