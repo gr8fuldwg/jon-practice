@@ -10,11 +10,13 @@ body {
 h1 {
     font-size: 70px;
     font-weight: normal;
-    text-shadow: 200em;
+    text-shadow: 10em;
     background-color: chartreuse;
     color: royalblue;
     font-family: monospace;
-    font-weight: bolder;
+    font-weight: bold;
     font-stretch: inherit;
+    padding-left: 50px;
     margin-bottom: 20em;
+    padding-bottom: 50px;
 }
