@@ -8,11 +8,12 @@ body {
 }
 
 h1 {
-    font-size: 200px;
+    font-size: 100px;
     font-weight: normal;
     text-shadow: 200em;
     background-color: chartreuse;
     color: royalblue;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
+    font-family: monospace;
+    font-weight: bolder;
+    font-stretch: inherit;
 }
