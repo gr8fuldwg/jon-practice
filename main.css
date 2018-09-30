@@ -13,10 +13,10 @@ h1 {
     text-shadow: 10em;
     background-color: chartreuse;
     color: royalblue;
-    font-family: monospace;
+    font-family: fantasy;
     font-weight: bold;
-    font-stretch: inherit;
-    padding-left: 50px;
+    font-stretch: none;
+    padding-left: 5px;
     margin-bottom: 20em;
-    padding-bottom: 50px;
+    padding-bottom: 5px;
 }
