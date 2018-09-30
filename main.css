@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 90px;
     font-weight: normal;
     text-shadow: 200em;
     background-color: chartreuse;
@@ -16,4 +16,5 @@ h1 {
     font-family: monospace;
     font-weight: bolder;
     font-stretch: inherit;
+    margin-bottom: 20em;
 }
