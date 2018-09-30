@@ -1,14 +1,15 @@
 
 
 body {
-    outline: 3em;
+    outline: 10em;
+    outline-color: coral;
     background-color: rgb(148, 12, 160);
     font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
     font-size: medium;
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 100px;
     font-weight: normal;
     text-shadow: 10em;
     background-color: chartreuse;
