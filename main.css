@@ -1,14 +1,14 @@
 
 
 body {
-    margin: 25px;
-    background-color: darkorchid;
+    margin: 50px;
+    background-color: rgb(192, 221, 25);
     font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
     font-size: medium;
 }
 
 h1 {
-    font-size: 75px;
+    font-size: 55px;
     font-weight: normal;
     text-shadow: 50em;
 }
