@@ -19,3 +19,12 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-bottom: 0em;
 }
+
+h2 {
+    text-align: right;
+    font-size: 26px;
+    text-shadow: 10em;
+    background-color: aqua;
+    color: coral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
